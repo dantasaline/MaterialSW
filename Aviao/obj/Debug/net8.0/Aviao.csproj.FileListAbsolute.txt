@@ -1,0 +1,14 @@
+C:\Users\caeta\source\repos\Aviao\bin\Debug\net8.0\Aviao.exe
+C:\Users\caeta\source\repos\Aviao\bin\Debug\net8.0\Aviao.deps.json
+C:\Users\caeta\source\repos\Aviao\bin\Debug\net8.0\Aviao.runtimeconfig.json
+C:\Users\caeta\source\repos\Aviao\bin\Debug\net8.0\Aviao.dll
+C:\Users\caeta\source\repos\Aviao\bin\Debug\net8.0\Aviao.pdb
+C:\Users\caeta\source\repos\Aviao\obj\Debug\net8.0\Aviao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caeta\source\repos\Aviao\obj\Debug\net8.0\Aviao.AssemblyInfoInputs.cache
+C:\Users\caeta\source\repos\Aviao\obj\Debug\net8.0\Aviao.AssemblyInfo.cs
+C:\Users\caeta\source\repos\Aviao\obj\Debug\net8.0\Aviao.csproj.CoreCompileInputs.cache
+C:\Users\caeta\source\repos\Aviao\obj\Debug\net8.0\Aviao.dll
+C:\Users\caeta\source\repos\Aviao\obj\Debug\net8.0\refint\Aviao.dll
+C:\Users\caeta\source\repos\Aviao\obj\Debug\net8.0\Aviao.pdb
+C:\Users\caeta\source\repos\Aviao\obj\Debug\net8.0\Aviao.genruntimeconfig.cache
+C:\Users\caeta\source\repos\Aviao\obj\Debug\net8.0\ref\Aviao.dll
