@@ -1,0 +1,14 @@
+C:\Users\lab1-aluno\source\repos\AlbumdFotos\AlbumdFotos\bin\Debug\net6.0\AlbumdFotos.exe
+C:\Users\lab1-aluno\source\repos\AlbumdFotos\AlbumdFotos\bin\Debug\net6.0\AlbumdFotos.deps.json
+C:\Users\lab1-aluno\source\repos\AlbumdFotos\AlbumdFotos\bin\Debug\net6.0\AlbumdFotos.runtimeconfig.json
+C:\Users\lab1-aluno\source\repos\AlbumdFotos\AlbumdFotos\bin\Debug\net6.0\AlbumdFotos.dll
+C:\Users\lab1-aluno\source\repos\AlbumdFotos\AlbumdFotos\bin\Debug\net6.0\AlbumdFotos.pdb
+C:\Users\lab1-aluno\source\repos\AlbumdFotos\AlbumdFotos\obj\Debug\net6.0\AlbumdFotos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab1-aluno\source\repos\AlbumdFotos\AlbumdFotos\obj\Debug\net6.0\AlbumdFotos.AssemblyInfoInputs.cache
+C:\Users\lab1-aluno\source\repos\AlbumdFotos\AlbumdFotos\obj\Debug\net6.0\AlbumdFotos.AssemblyInfo.cs
+C:\Users\lab1-aluno\source\repos\AlbumdFotos\AlbumdFotos\obj\Debug\net6.0\AlbumdFotos.csproj.CoreCompileInputs.cache
+C:\Users\lab1-aluno\source\repos\AlbumdFotos\AlbumdFotos\obj\Debug\net6.0\AlbumdFotos.dll
+C:\Users\lab1-aluno\source\repos\AlbumdFotos\AlbumdFotos\obj\Debug\net6.0\refint\AlbumdFotos.dll
+C:\Users\lab1-aluno\source\repos\AlbumdFotos\AlbumdFotos\obj\Debug\net6.0\AlbumdFotos.pdb
+C:\Users\lab1-aluno\source\repos\AlbumdFotos\AlbumdFotos\obj\Debug\net6.0\AlbumdFotos.genruntimeconfig.cache
+C:\Users\lab1-aluno\source\repos\AlbumdFotos\AlbumdFotos\obj\Debug\net6.0\ref\AlbumdFotos.dll
