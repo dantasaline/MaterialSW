@@ -1,0 +1,14 @@
+C:\Users\lab1-aluno\source\repos\FolhadPagamento\FolhadPagamento\bin\Debug\net6.0\FolhadPagamento.exe
+C:\Users\lab1-aluno\source\repos\FolhadPagamento\FolhadPagamento\bin\Debug\net6.0\FolhadPagamento.deps.json
+C:\Users\lab1-aluno\source\repos\FolhadPagamento\FolhadPagamento\bin\Debug\net6.0\FolhadPagamento.runtimeconfig.json
+C:\Users\lab1-aluno\source\repos\FolhadPagamento\FolhadPagamento\bin\Debug\net6.0\FolhadPagamento.dll
+C:\Users\lab1-aluno\source\repos\FolhadPagamento\FolhadPagamento\bin\Debug\net6.0\FolhadPagamento.pdb
+C:\Users\lab1-aluno\source\repos\FolhadPagamento\FolhadPagamento\obj\Debug\net6.0\FolhadPagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab1-aluno\source\repos\FolhadPagamento\FolhadPagamento\obj\Debug\net6.0\FolhadPagamento.AssemblyInfoInputs.cache
+C:\Users\lab1-aluno\source\repos\FolhadPagamento\FolhadPagamento\obj\Debug\net6.0\FolhadPagamento.AssemblyInfo.cs
+C:\Users\lab1-aluno\source\repos\FolhadPagamento\FolhadPagamento\obj\Debug\net6.0\FolhadPagamento.csproj.CoreCompileInputs.cache
+C:\Users\lab1-aluno\source\repos\FolhadPagamento\FolhadPagamento\obj\Debug\net6.0\FolhadPagamento.dll
+C:\Users\lab1-aluno\source\repos\FolhadPagamento\FolhadPagamento\obj\Debug\net6.0\refint\FolhadPagamento.dll
+C:\Users\lab1-aluno\source\repos\FolhadPagamento\FolhadPagamento\obj\Debug\net6.0\FolhadPagamento.pdb
+C:\Users\lab1-aluno\source\repos\FolhadPagamento\FolhadPagamento\obj\Debug\net6.0\FolhadPagamento.genruntimeconfig.cache
+C:\Users\lab1-aluno\source\repos\FolhadPagamento\FolhadPagamento\obj\Debug\net6.0\ref\FolhadPagamento.dll
