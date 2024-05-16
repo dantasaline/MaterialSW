@@ -4,18 +4,18 @@
     {
         static void Main(string[] args)
         {
-            Produto produto1 = new Produto();
+            Produto produto = new Produto();
 
             // Exibindo informações do produto
-            produto1.Exibir();
+            produto.Exibir();
 
             // Adicionando itens ao estoque
-            produto1.Adicionar(500);
-            produto1.Exibir();
+            produto.Adicionar(500);
+            produto.Exibir();
 
             // Removendo itens do estoque
-            produto1.Remover(430);
-            produto1.Exibir();
+            produto.Remover(430);
+            produto.Exibir();
 
             Console.ReadLine();
         }
