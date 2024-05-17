@@ -1,0 +1,14 @@
+C:\Users\caeta\Desktop\exerc08\fabrica\bin\Debug\net8.0\fabrica.exe
+C:\Users\caeta\Desktop\exerc08\fabrica\bin\Debug\net8.0\fabrica.deps.json
+C:\Users\caeta\Desktop\exerc08\fabrica\bin\Debug\net8.0\fabrica.runtimeconfig.json
+C:\Users\caeta\Desktop\exerc08\fabrica\bin\Debug\net8.0\fabrica.dll
+C:\Users\caeta\Desktop\exerc08\fabrica\bin\Debug\net8.0\fabrica.pdb
+C:\Users\caeta\Desktop\exerc08\fabrica\obj\Debug\net8.0\fabrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caeta\Desktop\exerc08\fabrica\obj\Debug\net8.0\fabrica.AssemblyInfoInputs.cache
+C:\Users\caeta\Desktop\exerc08\fabrica\obj\Debug\net8.0\fabrica.AssemblyInfo.cs
+C:\Users\caeta\Desktop\exerc08\fabrica\obj\Debug\net8.0\fabrica.csproj.CoreCompileInputs.cache
+C:\Users\caeta\Desktop\exerc08\fabrica\obj\Debug\net8.0\fabrica.dll
+C:\Users\caeta\Desktop\exerc08\fabrica\obj\Debug\net8.0\refint\fabrica.dll
+C:\Users\caeta\Desktop\exerc08\fabrica\obj\Debug\net8.0\fabrica.pdb
+C:\Users\caeta\Desktop\exerc08\fabrica\obj\Debug\net8.0\fabrica.genruntimeconfig.cache
+C:\Users\caeta\Desktop\exerc08\fabrica\obj\Debug\net8.0\ref\fabrica.dll
