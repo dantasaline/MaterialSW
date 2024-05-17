@@ -1,0 +1,14 @@
+C:\Users\caeta\Desktop\exerc05\listaproduto\bin\Debug\net8.0\listaproduto.exe
+C:\Users\caeta\Desktop\exerc05\listaproduto\bin\Debug\net8.0\listaproduto.deps.json
+C:\Users\caeta\Desktop\exerc05\listaproduto\bin\Debug\net8.0\listaproduto.runtimeconfig.json
+C:\Users\caeta\Desktop\exerc05\listaproduto\bin\Debug\net8.0\listaproduto.dll
+C:\Users\caeta\Desktop\exerc05\listaproduto\bin\Debug\net8.0\listaproduto.pdb
+C:\Users\caeta\Desktop\exerc05\listaproduto\obj\Debug\net8.0\listaproduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caeta\Desktop\exerc05\listaproduto\obj\Debug\net8.0\listaproduto.AssemblyInfoInputs.cache
+C:\Users\caeta\Desktop\exerc05\listaproduto\obj\Debug\net8.0\listaproduto.AssemblyInfo.cs
+C:\Users\caeta\Desktop\exerc05\listaproduto\obj\Debug\net8.0\listaproduto.csproj.CoreCompileInputs.cache
+C:\Users\caeta\Desktop\exerc05\listaproduto\obj\Debug\net8.0\listaproduto.dll
+C:\Users\caeta\Desktop\exerc05\listaproduto\obj\Debug\net8.0\refint\listaproduto.dll
+C:\Users\caeta\Desktop\exerc05\listaproduto\obj\Debug\net8.0\listaproduto.pdb
+C:\Users\caeta\Desktop\exerc05\listaproduto\obj\Debug\net8.0\listaproduto.genruntimeconfig.cache
+C:\Users\caeta\Desktop\exerc05\listaproduto\obj\Debug\net8.0\ref\listaproduto.dll
