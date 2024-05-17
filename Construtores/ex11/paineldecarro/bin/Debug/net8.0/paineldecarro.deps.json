@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "paineldecarro/1.0.0": {
+        "runtime": {
+          "paineldecarro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "paineldecarro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

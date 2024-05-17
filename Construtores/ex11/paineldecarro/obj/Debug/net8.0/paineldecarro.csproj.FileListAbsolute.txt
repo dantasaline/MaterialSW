@@ -1,0 +1,14 @@
+C:\Users\caeta\Desktop\exerc11\paineldecarro\bin\Debug\net8.0\paineldecarro.exe
+C:\Users\caeta\Desktop\exerc11\paineldecarro\bin\Debug\net8.0\paineldecarro.deps.json
+C:\Users\caeta\Desktop\exerc11\paineldecarro\bin\Debug\net8.0\paineldecarro.runtimeconfig.json
+C:\Users\caeta\Desktop\exerc11\paineldecarro\bin\Debug\net8.0\paineldecarro.dll
+C:\Users\caeta\Desktop\exerc11\paineldecarro\bin\Debug\net8.0\paineldecarro.pdb
+C:\Users\caeta\Desktop\exerc11\paineldecarro\obj\Debug\net8.0\paineldecarro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caeta\Desktop\exerc11\paineldecarro\obj\Debug\net8.0\paineldecarro.AssemblyInfoInputs.cache
+C:\Users\caeta\Desktop\exerc11\paineldecarro\obj\Debug\net8.0\paineldecarro.AssemblyInfo.cs
+C:\Users\caeta\Desktop\exerc11\paineldecarro\obj\Debug\net8.0\paineldecarro.csproj.CoreCompileInputs.cache
+C:\Users\caeta\Desktop\exerc11\paineldecarro\obj\Debug\net8.0\paineldecarro.dll
+C:\Users\caeta\Desktop\exerc11\paineldecarro\obj\Debug\net8.0\refint\paineldecarro.dll
+C:\Users\caeta\Desktop\exerc11\paineldecarro\obj\Debug\net8.0\paineldecarro.pdb
+C:\Users\caeta\Desktop\exerc11\paineldecarro\obj\Debug\net8.0\paineldecarro.genruntimeconfig.cache
+C:\Users\caeta\Desktop\exerc11\paineldecarro\obj\Debug\net8.0\ref\paineldecarro.dll
