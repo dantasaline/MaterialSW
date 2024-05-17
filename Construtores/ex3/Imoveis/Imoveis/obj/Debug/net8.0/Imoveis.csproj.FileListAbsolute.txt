@@ -1,0 +1,14 @@
+C:\Users\amand\OneDrive\Documentos\ex3\Imoveis\Imoveis\obj\Debug\net8.0\Imoveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\OneDrive\Documentos\ex3\Imoveis\Imoveis\obj\Debug\net8.0\Imoveis.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive\Documentos\ex3\Imoveis\Imoveis\obj\Debug\net8.0\Imoveis.AssemblyInfo.cs
+C:\Users\amand\OneDrive\Documentos\ex3\Imoveis\Imoveis\obj\Debug\net8.0\Imoveis.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Documentos\ex3\Imoveis\Imoveis\bin\Debug\net8.0\Imoveis.exe
+C:\Users\amand\OneDrive\Documentos\ex3\Imoveis\Imoveis\bin\Debug\net8.0\Imoveis.deps.json
+C:\Users\amand\OneDrive\Documentos\ex3\Imoveis\Imoveis\bin\Debug\net8.0\Imoveis.runtimeconfig.json
+C:\Users\amand\OneDrive\Documentos\ex3\Imoveis\Imoveis\bin\Debug\net8.0\Imoveis.dll
+C:\Users\amand\OneDrive\Documentos\ex3\Imoveis\Imoveis\bin\Debug\net8.0\Imoveis.pdb
+C:\Users\amand\OneDrive\Documentos\ex3\Imoveis\Imoveis\obj\Debug\net8.0\Imoveis.dll
+C:\Users\amand\OneDrive\Documentos\ex3\Imoveis\Imoveis\obj\Debug\net8.0\refint\Imoveis.dll
+C:\Users\amand\OneDrive\Documentos\ex3\Imoveis\Imoveis\obj\Debug\net8.0\Imoveis.pdb
+C:\Users\amand\OneDrive\Documentos\ex3\Imoveis\Imoveis\obj\Debug\net8.0\Imoveis.genruntimeconfig.cache
+C:\Users\amand\OneDrive\Documentos\ex3\Imoveis\Imoveis\obj\Debug\net8.0\ref\Imoveis.dll
