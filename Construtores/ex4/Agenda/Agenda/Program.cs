@@ -7,7 +7,7 @@
             AgenciaTelefonica agenda = new AgenciaTelefonica();
             bool continuar = true;
 
-            while (continuar)
+            while //continuar se for verdadeiro
             {
                 Console.WriteLine("Menu:");
                 Console.WriteLine("1. Adicionar Contato");
