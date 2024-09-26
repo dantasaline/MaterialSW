@@ -60,7 +60,7 @@
                                             echo "<td>".$dados['telefone']."</td>";
                                             echo "<td>
                                                 <a class='btn btn-info' href='atualiza_cliente.php?id=".$dados['id_cliente']."'>ATUALIZAR</a>                             
-                                                <a class='btn btn-danger' href=''>APAGAR</a>
+                                                <a class='btn btn-danger' href='processa_delete_cliente.php?id=".$dados['id_cliente']."'>APAGAR</a>
                                             </td>";
                                             echo "</tr>";
                                         }
